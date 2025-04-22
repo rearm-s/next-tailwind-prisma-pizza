@@ -1,7 +1,5 @@
 ## Tech Stack
 
-First, run the development server:
-
 1. NextJS (Parallel Routes, Group Routes, Server Actions, API)
 2. TypeScript
 3. TailwindCSS + ShadCN
